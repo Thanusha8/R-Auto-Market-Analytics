@@ -1,6 +1,13 @@
 # R-Auto-Market-Analytics
 Statistical analysis of automobile features influencing price for strategic decision-making.
 
+<img width="975" height="656" alt="image" src="https://github.com/user-attachments/assets/9d7865bc-e028-4426-9372-18e30c100cf1" />
+
+---
+<img width="975" height="739" alt="image" src="https://github.com/user-attachments/assets/a7ef33cf-0bf3-4f10-9304-afaac70abea0" />
+
+
+
 A comprehensive business analytics project in R, performing statistical analysis on automobile data to support strategic decision-making for a Ministry of Transport.
 
 ## Project Overview
